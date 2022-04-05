@@ -9,6 +9,7 @@
 
 </body>
 
+
 Tenho 20 anos, nascido no Rio de Janeiro, mas atualmente moro em São José dos Campos - SP, onde Curso Análise e desenvolvimento de sistemas na FATEC - Prof. Jessen Vidal. Sou estagiário em Qualidade de Software na ENACOM Group há menos de um ano. 
 
 ## :video_game::desktop_computer: Meus projetos
