@@ -4,7 +4,7 @@
 
 <body>
   <div align="center">
-    <kbd><img src="https://drive.google.com/file/d/13efyWSSfrbqi34zte-jEZSkc-LN1vkqU/view?usp=sharing" width="200px" height="200px"/></kbd>
+    <kbd><img src="https://github.com/brennorichard/brennorichard/blob/main/assets/im1.jpg" width="200px" height="200px"/></kbd>
   </div>
 
 </body>
