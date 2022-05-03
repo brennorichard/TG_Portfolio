@@ -59,6 +59,11 @@ Kodular, Firebase e Airtable. Tenho hoje autonomia no uso dessas tecnologias.
 **Gerenciamento de tempo**: Nesse projeto atuando com Scrum Master, percebi o desafio que era administrar o meu tempo para as atividades e o auxilio na organização da equipe. O projeto trouxe um grande salto no meu senso de responsabilidade para comigo mesmo, para meus afazeres e responsabilidades.
 </details>
 
+**Vídeos do projeto:**
+
+- [Câmera de segurança](https://drive.google.com/file/d/1ZTmHyagF4pVJgk02Pg6iP88g4zk6GSTO/view?usp=sharing)
+- [Chamadas de Emergência](https://drive.google.com/file/d/1ZZMmOgKXKVMSb6pout-qUtOB4mkpSJ-r/view?usp=sharing)
+
 <details>
   <summary>Em 2020-2</summary>
 
