@@ -57,12 +57,12 @@ Kodular, Firebase e Airtable. Tenho hoje autonomia no uso dessas tecnologias.
 **Colaboração**: O curso de Tecnologia em Análise e Desenvolvimento de sistemas exige em cada projeto grande colaboração entre os integrantes, quando todos trabalham em sincronia é muito mais simples resolver problemas e progredir de maneira mais eficiente. O senso de colaboração é renovado à partir do momento que você entende que seu trabalho e o do seu time fica muito mais fácil quando você desempenha bem nas suas tarefas e segue seus prazos.
 
 **Gerenciamento de tempo**: Nesse projeto atuando com Scrum Master, percebi o desafio que era administrar o meu tempo para as atividades e o auxilio na organização da equipe. O projeto trouxe um grande salto no meu senso de responsabilidade para comigo mesmo, para meus afazeres e responsabilidades.
-</details>
 
 **Vídeos do projeto:**
 
 - [Câmera de segurança](https://drive.google.com/file/d/1ZTmHyagF4pVJgk02Pg6iP88g4zk6GSTO/view?usp=sharing)
 - [Chamadas de Emergência](https://drive.google.com/file/d/1ZZMmOgKXKVMSb6pout-qUtOB4mkpSJ-r/view?usp=sharing)
+</details>
 
 <details>
   <summary>Em 2020-2</summary>
