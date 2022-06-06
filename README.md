@@ -124,7 +124,7 @@ Java e PostgreSQL. Tenho hoje autonomia no uso dessas tecnologias.
 
 
 
-[Clique aqui para mais informações e vídeos do projeto] ('https://github.com/DevSlim001/PI_2020.2')
+<a href="https://github.com/DevSlim001/PI_2020.2" target="__blank">Clique aqui para mais informações sobre o projeto</a>
 
 </details>
 
@@ -227,7 +227,7 @@ Além da colaboração técnica, fui o Scrum Master do projeto, além de exercer
 
 
 
-[Clique aqui para mais informações e vídeos do projeto] (https://github.com/DevSlim001/API_NEDUC)
+<a href="https://github.com/DevSlim001/API_NEDUC" target="__blank">Clique aqui para mais informações sobre o projeto</a>
 
 </details>
 
