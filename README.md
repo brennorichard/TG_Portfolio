@@ -124,7 +124,7 @@ Java e PostgreSQL. Tenho hoje autonomia no uso dessas tecnologias.
 
 
 
-[Clique aqui para mais informações e vídeos do projeto] (https://github.com/DevSlim001/PI_2020.2)
+[Clique aqui para mais informações e vídeos do projeto] ('https://github.com/DevSlim001/PI_2020.2')
 
 </details>
 
