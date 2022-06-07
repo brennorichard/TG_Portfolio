@@ -369,9 +369,9 @@ MongoDB. Tenho hoje autonomia no uso dessa tecnologia.
 
 **Vídeos do projeto:**
 
-![](https://user-images.githubusercontent.com/62018632/168510546-dcfc487f-2bba-4455-9af4-e6f918a7c0c9.mp4)
+https://user-images.githubusercontent.com/62018632/168510546-dcfc487f-2bba-4455-9af4-e6f918a7c0c9.mp4
 
-![](https://user-images.githubusercontent.com/62018632/168509971-61aa4521-3d4e-488c-b529-6d82e4c547af.mp4)
+https://user-images.githubusercontent.com/62018632/168509971-61aa4521-3d4e-488c-b529-6d82e4c547af.mp4
 
 <a href="https://github.com/AirghostTeamAPI/BriskNotificationApp" target="__blank">Clique aqui para mais informações sobre o projeto</a>
 
