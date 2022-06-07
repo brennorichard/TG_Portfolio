@@ -207,6 +207,10 @@ Nesse projeto a minha dedicação foi inteiramente para a construção do front-
 
 Além da colaboração técnica, fui o Scrum Master do projeto, além de exercer tal função, participei de toda a estrutura de requisitos juntamente com o PO.
 
+#### Hard Skills
+
+Bootstrap, HTML e CSS. Tenho hoje autonomia no uso dessas tecnologias.
+
 #### Soft Skills
 
 **Produtividade:** É necessário ser produtivo e otimizar ao máximo o seu tempo para que tudo que foi atribuído a você seja entregue dentro do previsto.
@@ -235,36 +239,74 @@ Além da colaboração técnica, fui o Scrum Master do projeto, além de exercer
 
 <details>
   <summary>Em 2021-2</summary>
-
-
+Na segunda etapa de 2021, tivemos o prazer de trabalhar com uma das maiores empresas de São José dos campos, a proposta seria o gerenciamento e manipulação de documentos internos da empresa parceira de forma mais fácil.
+Nesse semestre foi proposto que desenvolvêssemos um sistema para gerar documentos de aeronaves de acordo com os padrões estabelecidos pela empresa parceira.
 
 ##### :book::heavy_check_mark: Parceiro Acadêmico
 
-
+Nesse semestre foi acordado que não haveria nada que ligasse o projeto à empresa parceira, devido aos tipos de documentos compartilhados foi necessário manter a confidencialidade.
 
 ##### :warning: Problema
 
-
+Dificuladade na manipulação de documentos (manuais), demora e trabalho excessivo para criação, edição e atualização dos mesmos.
 
 ##### :bulb: Solução
 
-
+Plataforma WEB resposnsável por facilitar a edição desses arquivos de forma que não fosse necessário realizar operações exaustivas e repetitivas.
 
 #### :calling::package: Tecnologias Utilizadas
 
+##### HTML5
 
+HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores.
+
+##### CSS3
+
+Cascading Style Sheets é um mecanismo para adicionar estilo a um documento web.
+
+##### JavaScript
+
+JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
+
+##### Java 
+
+Linguagem de programação que permite executar jogos, fazer upload de fotos, bater papo on-line, fazer tours virtuais e usar serviços, como treinamento on-line, transações bancárias on-line e mapas interativos.
+
+O Java foi a tecnologia pela qual o aplicativo foi construído.
+
+##### Springboot
+
+Framework Java open source que tem como objetivo facilitar esse processo em aplicações Java.  Consequentemente, ele traz mais agilidade para o processo de  desenvolvimento, uma vez que devs conseguem reduzir o tempo gasto com as configurações iniciais.
+
+##### ReactJs
+
+O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
+
+O React foi a principal tecnologia utilizada na construção do front-end do projeto.
 
 ####  Contribuições Pessoais
 
+Nesse projeto fiquei responsável pela construção das páginas do modelo web utilizando ReactJs. Além da construção das páginas atuei como PO, tranzendo para equipe todos os requisitos do cliente e auxiliando na organização e documentação do projeto.
 
+#### Hard Skills
+
+ReactJS. Tenho hoje autonomia no uso dessa tecnologia.
 
 #### Soft Skills
 
+**Gerenciamento de tempo**: Nesse projeto atuando com PO, mais uma vez tive o desafio de administrar o meu tempo para as atividades e o auxiliar na organização da equipe.
 
+**Criatividade**: Foi necessário o uso de muita criatividade para colocar tamanho projeto nas linhas de código e resolver problemas que surgiram durante o decorrer das entregas.
 
 **Vídeos do projeto:**
 
+<img src="https://github.com/DevSlim001/API_Slim_4Semestre/blob/Sprint-4/docs/Sprints/videos/Amostra1_Sprint4.gif" width="750px"><br/>
 
+<img src="https://github.com/DevSlim001/API_Slim_4Semestre/blob/Sprint-4/docs/Sprints/videos/Amostra2_Sprint4.gif" width="750px"><br/>
+
+
+
+<a href="https://github.com/DevSlim001/API_Slim_4Semestre" target="__blank">Clique aqui para mais informações sobre o projeto</a>
 
 </details>
 
@@ -272,42 +314,68 @@ Além da colaboração técnica, fui o Scrum Master do projeto, além de exercer
 
 <details>
   <summary>Em 2022-1</summary>
-
+Nesse semestre, a empresa parceira propôs o desafio de criar um aplicativo que notificasse os proprietários e facilitasse a leitura de documentos preventivos ou de manutenção de seus respectivos veículos.
 
 
 ##### :book::heavy_check_mark: Parceiro Acadêmico
 
-
+Nesse semestre foi acordado que não haveria nada que ligasse o projeto à empresa parceira, devido aos tipos de documentos compartilhados. Foi necessário manter a confidencialidade.
 
 ##### :warning: Problema
 
-
+Falta de leitura de documentos preventivos e de manutenção por parte dos donos de veículos, seja por dificuldade de acesso ou pela falta de notificação ao lançar novas FOL's no sistema.
 
 ##### :bulb: Solução
 
-
+Um aplicativo que facilita os procedimentos padrão para os motoristas em caso de problema com seu veículo. No aplicativo, ele sempre terá notificações de alertas e recomendações (denominadas FOLs) vindas diretamente da empresa responsável relacionada aos seus veículos.
 
 #### :calling::package: Tecnologias Utilizadas
+
+##### JavaScript
+
+JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
+
+##### NodeJs
+
+Node.js é um software de código aberto, multiplataforma, baseado  no interpretador V8 do Google e que permite a execução de códigos  JavaScript fora de um navegador web.
+
+Linguagem principal do projeto, como ela foi contruído o back-end da aplicação.
+
+##### MongoDB
+
+MongoDB é um software de banco de dados orientado a documentos  livre, de código aberto e multiplataforma, escrito na linguagem C++.  Classificado como um programa de banco de dados NoSQL, o MongoDB usa  documentos semelhantes a JSON com esquemas.
+
+Banco de dados não realicional utilizado no projeto.
+
+##### ReactNative
+
+React Native é uma biblioteca Javascript criada pelo Facebook. É  usada para desenvolver aplicativos para os sistemas Android e iOS de  forma nativa.
+
+Utilizada para o desenvolvimento do front-end do projeto.
 
 
 
 ####  Contribuições Pessoais
 
+Nesse projeto além de atuar como PO (Product Owner), fiquei responsável pela criação e gerenciamento do banco de dados e pelo sistema de backup e LGPD do sistema.
 
+#### Hard Skills
+
+MongoDB. Tenho hoje autonomia no uso dessa tecnologia.
 
 #### Soft Skills
 
-
+**Positividade: **Em vários momentos problemas surgem, se falta positividade e confiança a resolução desses problemas torna-se cada vez mais díficil. Por isso tal característica foi tão importante no projeto, tanto para apoio pessoal, quanto do time.
 
 **Vídeos do projeto:**
 
+![v1](https://user-images.githubusercontent.com/62018632/168510546-dcfc487f-2bba-4455-9af4-e6f918a7c0c9.mp4)
 
+![v2](https://user-images.githubusercontent.com/62018632/168509971-61aa4521-3d4e-488c-b529-6d82e4c547af.mp4)
+
+<a href="https://github.com/AirghostTeamAPI/BriskNotificationApp" target="__blank">Clique aqui para mais informações sobre o projeto</a>
 
 </details>
-
-## 
-
-## 
 
 ## Meus principais Conhecimentos
 
