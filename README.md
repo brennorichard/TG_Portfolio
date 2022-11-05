@@ -517,9 +517,9 @@ Python. Tenho hoje autonomia no uso dessa tecnologia, mas muito conhecimento foi
 
 https://user-images.githubusercontent.com/61993394/190942778-c040a491-53b3-4479-9574-6aef9797cec5.mp4
 
-![Vídeo do aplicativo](https://user-images.githubusercontent.com/61993394/190942778-c040a491-53b3-4479-9574-6aef9797cec5.mp4)
+![](https://user-images.githubusercontent.com/61993394/190942778-c040a491-53b3-4479-9574-6aef9797cec5.mp4)
 
-![Reconhecimento da planta](https://user-images.githubusercontent.com/62018632/194791135-c598d851-da8e-4098-aa65-2acb72c5501f.png)
+![](https://user-images.githubusercontent.com/62018632/194791135-c598d851-da8e-4098-aa65-2acb72c5501f.png)
 
 <a href="https://github.com/Agroghosts/eSoja" target="__blank">Clique aqui para mais informações sobre o projeto</a>
 
