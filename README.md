@@ -377,6 +377,154 @@ https://user-images.githubusercontent.com/62018632/168509971-61aa4521-3d4e-488c-
 
 </details>
 
+
+
+
+
+<details>
+  <summary>Em 2021-2</summary>
+Na segunda etapa de 2021, tivemos o prazer de trabalhar com uma das maiores empresas de São José dos campos, a proposta seria o gerenciamento e manipulação de documentos internos da empresa parceira de forma mais fácil.
+Nesse semestre foi proposto que desenvolvêssemos um sistema para gerar documentos de aeronaves de acordo com os padrões estabelecidos pela empresa parceira.
+
+
+##### :book::heavy_check_mark: Parceiro Acadêmico
+
+Nesse semestre foi acordado que não haveria nada que ligasse o projeto à empresa parceira, devido aos tipos de documentos compartilhados foi necessário manter a confidencialidade.
+
+##### :warning: Problema
+
+Dificuladade na manipulação de documentos (manuais), demora e trabalho excessivo para criação, edição e atualização dos mesmos.
+
+##### :bulb: Solução
+
+Plataforma WEB resposnsável por facilitar a edição desses arquivos de forma que não fosse necessário realizar operações exaustivas e repetitivas.
+
+#### :calling::package: Tecnologias Utilizadas
+
+##### HTML5
+
+HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores.
+
+##### CSS3
+
+Cascading Style Sheets é um mecanismo para adicionar estilo a um documento web.
+
+##### JavaScript
+
+JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
+
+##### Java 
+
+Linguagem de programação que permite executar jogos, fazer upload de fotos, bater papo on-line, fazer tours virtuais e usar serviços, como treinamento on-line, transações bancárias on-line e mapas interativos.
+
+O Java foi a tecnologia pela qual o aplicativo foi construído.
+
+##### Springboot
+
+Framework Java open source que tem como objetivo facilitar esse processo em aplicações Java.  Consequentemente, ele traz mais agilidade para o processo de  desenvolvimento, uma vez que devs conseguem reduzir o tempo gasto com as configurações iniciais.
+
+##### ReactJs
+
+O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
+
+O React foi a principal tecnologia utilizada na construção do front-end do projeto.
+
+####  Contribuições Pessoais
+
+Nesse projeto fiquei responsável pela construção das páginas do modelo web utilizando ReactJs. Além da construção das páginas atuei como PO, tranzendo para equipe todos os requisitos do cliente e auxiliando na organização e documentação do projeto.
+
+#### Hard Skills
+
+ReactJS. Tenho hoje autonomia no uso dessa tecnologia.
+
+#### Soft Skills
+
+**Gerenciamento de tempo**: Nesse projeto atuando com PO, mais uma vez tive o desafio de administrar o meu tempo para as atividades e o auxiliar na organização da equipe.
+
+**Criatividade**: Foi necessário o uso de muita criatividade para colocar tamanho projeto nas linhas de código e resolver problemas que surgiram durante o decorrer das entregas.
+
+**Vídeos do projeto:**
+
+<img src="https://github.com/DevSlim001/API_Slim_4Semestre/blob/Sprint-4/docs/Sprints/videos/Amostra1_Sprint4.gif" width="750px"><br/>
+
+<img src="https://github.com/DevSlim001/API_Slim_4Semestre/blob/Sprint-4/docs/Sprints/videos/Amostra2_Sprint4.gif" width="750px"><br/>
+
+
+
+<a href="https://github.com/DevSlim001/API_Slim_4Semestre" target="__blank">Clique aqui para mais informações sobre o projeto</a>
+
+</details>
+
+
+
+<details>
+  <summary>Em 2022-2</summary>
+Nesse semestre, a empresa parceira propôs o desafio de melhorar um aplicativo onde incialmente agricultures inseriam dados manualmente para que pudessem obter dados quantitativos de plantio de soja. O trabalho da equipe foi fazer com que os dados do plantio pudessem ser obtidos através do processamento de fotos feito por uma IA.
+
+
+
+##### :book::heavy_check_mark: Parceiro Acadêmico
+
+A empresa parceira nesse semestre foi a VISIONA, uma joint-venture entre a Embraer Defesa & Segurança e a Telebras, voltada para a integração de sistemas espaciais. Criada em 2012 para  atender os objetivos do Programa Nacional de Atividades Espaciais (PNAE) e do Programa Estratégico de Sistemas Espaciais (PESE).
+
+##### :warning: Problema
+
+O problema apresentado foi que sempre que os agricultores necessitassem de dados do seu plantio, era necessário o preenchimento manual informações para obtenção de dados.
+
+##### :bulb: Solução
+
+A solução encontrada foi a implementação de uma IA no aplicativo, de forma que seria necessário apenas que o agricultor tirasse uma foto da sua planta para que pudesse receber dados quantitativos.
+
+#### :calling::package: Tecnologias Utilizadas
+
+##### Python 
+
+Python é uma linguagem de programação de alto nível, interpretada  de script, imperativa, orientada a objetos, funcional, de tipagem  dinâmica e forte.
+
+A tecnologia foi utilizada para construção e treinamento da IA.
+
+##### React Native
+
+React Native é uma biblioteca Javascript criada pelo Facebook. É  usada para desenvolver aplicativos para os sistemas Android e iOS de  forma nativa.
+
+O React foi a principal tecnologia utilizada na construção do front-end do projeto na sua primeira versão. Foi utilizado nesse projeto para ajustes no front-end.
+
+##### PostgreSQL
+
+PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto.
+
+O postgreSQL foi o banco de dados usado no projeto.
+
+
+
+####  Contribuições Pessoais
+
+
+
+#### Hard Skills
+
+Python. Tenho hoje autonomia no uso dessa tecnologia, mas muito conhecimento foi obtido com o fato de ter que trabalhar na construção de uma IA.
+
+#### Soft Skills
+
+**Produtividade:** É necessário ser produtivo e otimizar ao máximo o seu tempo para que tudo que foi atribuído a você seja entregue dentro do previsto.
+
+**Adaptabilidade:** É necessário adaptar-se no uso de novas tecnologias, no surgimento de desafios e empecilhos, sejam eles técnicos ou pessoais.
+
+
+
+**O projeto:**
+
+https://user-images.githubusercontent.com/61993394/190942778-c040a491-53b3-4479-9574-6aef9797cec5.mp4
+
+![Vídeo do aplicativo](https://user-images.githubusercontent.com/61993394/190942778-c040a491-53b3-4479-9574-6aef9797cec5.mp4)
+
+![Reconhecimento da planta](https://user-images.githubusercontent.com/62018632/194791135-c598d851-da8e-4098-aa65-2acb72c5501f.png)
+
+<a href="https://github.com/Agroghosts/eSoja" target="__blank">Clique aqui para mais informações sobre o projeto</a>
+
+</details>
+
 ## Meus principais Conhecimentos
 
 - Python :snake:
