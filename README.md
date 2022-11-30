@@ -156,11 +156,11 @@ Foi utilziada para construção do protótipo do projeto.
 
 
 
-##### PostgreSQL
+##### MySQL
 
 PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto.
 
-O postgreSQL foi o banco de dados utilziado inicialmente no projeto.
+O MySQL foi o banco de dados utilziado inicialmente no projeto.
 
 ##### MySQL
 
