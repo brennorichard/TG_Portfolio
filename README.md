@@ -158,12 +158,6 @@ Foi utilziada para construção do protótipo do projeto.
 
 ##### MySQL
 
-PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto.
-
-O MySQL foi o banco de dados utilziado inicialmente no projeto.
-
-##### MySQL
-
 O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface.
 
 O MySQL foi o banco utilziado a partir da segunda sprint, foi realizada a migração devido à alterações no requisito do projeto.
